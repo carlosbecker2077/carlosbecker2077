@@ -1,7 +1,7 @@
 Sou Carlos,
-- Interessado em HTML, CSS, JavaScript, Python e afins; 
-- Atualmente aprendendo HTML, CSS, JavaScript e Python;
-- Procuro obter experiência em front end;
+- Interessado em SQL, Python, Big Data e afins; 
+- Atualmente aprendendo SQL, Python;
+- Procuro obter experiência em Data Engineering;
 
 <!---
 carlosbecker2077/carlosbecker2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
