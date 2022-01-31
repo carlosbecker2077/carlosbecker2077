@@ -2,6 +2,7 @@ Sou Carlos,
 - Interessado em SQL, Python, Big Data e afins; 
 - Atualmente aprendendo SQL, Python;
 - Procuro obter experiência em Data Engineering;
+- Treinee Data Engineer na Dataside
 
 <!---
 carlosbecker2077/carlosbecker2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
