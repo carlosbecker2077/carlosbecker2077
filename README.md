@@ -1,8 +1,4 @@
-Sou Carlos,
-- Interessado em SQL, Python, Javascript, Node.js, Go e afins; 
-- Atualmente aprendendo Node.js e Javascript;
-- Procuro obter experiência em Back-End;
-- Treinee Back-End Developer na Dataside
+Junior Back-End Developer @Dataside
 
 <!---
 carlosbecker2077/carlosbecker2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
