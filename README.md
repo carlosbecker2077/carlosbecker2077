@@ -1,4 +1,4 @@
-Junior Back-End Developer @Dataside
+Back-End Developer @Dataside
 
 <!---
 carlosbecker2077/carlosbecker2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
